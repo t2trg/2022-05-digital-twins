@@ -11,6 +11,8 @@ In this work meeting we plan to explore the state of applicability of IETF techn
 A two-hour online meeting on Wednesday, 2022-05-04 at 1300–1500Z 
 (e.g., 1500-1700 CEST, 0600–0800 PDT).
 
-We hope we can still make this date; if major conflicts(*) appear, we might need to reschedule.
+Calendar invite: https://datatracker.ietf.org/meeting/interim-2022-t2trg-02/session/29523.ics
 
-Please talk to the chairs (t2trg-chairs@irtf.org) about getting on the agenda (and about conflicts that would get in the way of a successful meeting).
+Meetecho online conference: https://meetings.conf.meetecho.com/interim/?short=59db1532-c8d1-4c7d-9dc0-0bf6da67c31e
+
+Please talk to the chairs (t2trg-chairs@irtf.org) about getting on the agenda.
