@@ -31,8 +31,8 @@ Please contact the [chairs][] for any changes required.
 |------------|--------------------|-----------------------------------------------------------------|------|
 |      13:00 | Chairs             | Welcome and Intro                                               |      |
 |      13:10 |                    | Digital Twin Consortium View                                    |      |
-|      13:10 | Toby Considine     | big picture: digital twin architecture                          |      |
-|      13:25 | Anto Budiardjo     | a technical view: CNS and CP                                    |      |
+|      13:10 | Anto Budiardjo     | big picture: digital twin architecture                          |      |
+|      13:25 | Toby Considine     | a technical view: CNS and CP                                    |      |
 |      13:40 |                    | Clarifying questions                                            |      |
 |      13:50 |                    | IETF, IRTF view                                                 |      |
 |      13:50 | Laurent Ciavaglia? | NMRG activities: Network Digital Twin                           |      |
