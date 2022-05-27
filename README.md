@@ -19,7 +19,7 @@ Please talk to the chairs (t2trg-chairs@irtf.org) about getting on the agenda.
 
 ## Materials
 
-Slides: https://github.com/t2trg/2022-05-digital-twins
+Slides: https://datatracker.ietf.org/meeting/interim-2022-t2trg-02/session/t2trg
 
 Notes: https://notes.ietf.org/notes-ietf-interim-2022-t2trg-02-t2trg
 
